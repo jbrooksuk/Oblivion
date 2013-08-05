@@ -107,8 +107,10 @@ using the Tango color palette
             <string>constant.language</string>
             <key>settings</key>
             <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
                 <key>foreground</key>
-                <string>#AE81FF</string>
+                <string>#ce5c00</string>
             </dict>
         </dict>
         <dict>
@@ -289,6 +291,19 @@ using the Tango color palette
                 <string>bold</string>
                 <key>foreground</key>
                 <string>#FFFFFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Function Construct</string>
+            <key>scope</key>
+            <string>support.function.construct</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#73d216</string>
             </dict>
         </dict>
         <dict>
