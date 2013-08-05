@@ -489,7 +489,7 @@ using the Tango color palette
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ef2929</string>
+                <string>#a40000</string>
             </dict>
         </dict>
         <dict>
@@ -500,7 +500,7 @@ using the Tango color palette
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8ae234</string>
+                <string>#4e9a06</string>
             </dict>
         </dict>
         <dict>
@@ -511,7 +511,7 @@ using the Tango color palette
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#729fcf</string>
+                <string>#204a87</string>
             </dict>
         </dict>
         <dict>
