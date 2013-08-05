@@ -357,105 +357,105 @@ using the Tango color palette
             </dict>
         </dict>
         <dict>
-                    <key>name</key>
-                    <string>Remark TODO</string>
-                    <key>scope</key>
-                    <string>remark.todo</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#FFFFAA</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark DONE</string>
-                    <key>scope</key>
-                    <string>remark.done</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#DDDDDD</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark WAIT</string>
-                    <key>scope</key>
-                    <string>remark.wait</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#CCFFCC</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark NOTE</string>
-                    <key>scope</key>
-                    <string>remark.note</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#AAAAAA</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark FIXME</string>
-                    <key>scope</key>
-                    <string>remark.fixme</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#FFAAAA</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark WARNING</string>
-                    <key>scope</key>
-                    <string>remark.warning</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#FF9900</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark INFO</string>
-                    <key>scope</key>
-                    <string>remark.info</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#FFFFAA</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark EXCEPTION</string>
-                    <key>scope</key>
-                    <string>remark.exception</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#FFAAAA</string>
-                    </dict>
-                </dict>
-                <dict>
-                    <key>name</key>
-                    <string>Remark ERROR</string>
-                    <key>scope</key>
-                    <string>remark.error</string>
-                    <key>settings</key>
-                    <dict>
-                        <key>foreground</key>
-                        <string>#FF3366</string>
-                    </dict>
-                </dict>
-                <dict>
+            <key>name</key>
+            <string>Remark TODO</string>
+            <key>scope</key>
+            <string>remark.todo</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFAA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark DONE</string>
+            <key>scope</key>
+            <string>remark.done</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDDDDD</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark WAIT</string>
+            <key>scope</key>
+            <string>remark.wait</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#CCFFCC</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark NOTE</string>
+            <key>scope</key>
+            <string>remark.note</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#AAAAAA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark FIXME</string>
+            <key>scope</key>
+            <string>remark.fixme</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFAAAA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark WARNING</string>
+            <key>scope</key>
+            <string>remark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF9900</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark INFO</string>
+            <key>scope</key>
+            <string>remark.info</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFAA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark EXCEPTION</string>
+            <key>scope</key>
+            <string>remark.exception</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFAAAA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Remark ERROR</string>
+            <key>scope</key>
+            <string>remark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF3366</string>
+            </dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>diff.header</string>
             <key>scope</key>
