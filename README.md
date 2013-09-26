@@ -4,7 +4,9 @@ A Sublime Text Color Scheme based on Oblivion theme of Gedit in Ubuntu 11.10.
 
 ## Installation
 
-I'll be submitting Oblivion to Package Control shortly. If you don't have Git installed, then you can download the released version [here](https://github.com/jbrooksuk/Oblivion/releases). Just extract the Zip or Tar file into your `Packages/User` directory.
+Available via [Package Control](https://sublime.wbond.net/installation) - search for "Oblivion Color Scheme".
+
+If you don't have Git installed, then you can download the released version [here](https://github.com/jbrooksuk/Oblivion/releases). Just extract the Zip or Tar file into your `Packages/User` directory.
 
 ### Sublime Text 3
 
