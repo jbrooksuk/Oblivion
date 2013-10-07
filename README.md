@@ -2,6 +2,8 @@
 
 A Sublime Text Color Scheme based on Oblivion theme of Gedit in Ubuntu 11.10.
 
+![Oblivion](oblivion.png)
+
 ## Installation
 
 Available via [Package Control](https://sublime.wbond.net/installation) - search for "Oblivion Color Scheme".
