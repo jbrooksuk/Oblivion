@@ -45,6 +45,15 @@ If you don't have Git installed, then you can download the released version [her
 	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 	git clone https://github.com/jbrooksuk/Oblivion.git
 
+# Source
+Using [TTheme](http://github.com/jbrooksuk/TTheme) we're able to generate `tmTheme` files from YAML. This allows us to easily customise and quickly modify the themes. There are [plans](https://github.com/jbrooksuk/Oblivion/issues/3) to generate various versions of Oblivion, including:
+
+- Light
+- Soda Light
+- High Contrast
+
+But this will take further work to write a decent generator that can take the [Oblivion colour palette](https://github.com/jbrooksuk/Oblivion/blob/master/src/palette.yml) and generate these files.
+
 # Credits
 	
 The .tmTheme file was originally created by Paolo Borelli.
