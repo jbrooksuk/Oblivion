@@ -1,0 +1,276 @@
+---
+  uuid: "859E1218-E415-4CFB-9FD9-BF14CC024667"
+  settings: 
+    - 
+      settings: 
+        selection: "#555753"
+        lineHighlight: "#3A3E40"
+        background: "#303030"
+        foreground: "#D3D7CF"
+        invisibles: "#3B3A32"
+        caret: "#D3D7CF"
+    - 
+      scope: "comment"
+      settings: 
+        fontStyle: "italic"
+        foreground: "#B0B0B0"
+      name: "Comment"
+    - 
+      scope: "string"
+      settings: 
+        foreground: "#EDD400"
+      name: "String"
+    - 
+      scope: "constant.numeric"
+      settings: 
+        foreground: "#CE5A10"
+      name: "Number"
+    - 
+      scope: "constant.language"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#ce5c00"
+      name: "Built-in constant"
+    - 
+      scope: "constant.character, constant.other"
+      settings: 
+        foreground: "#AE81FF"
+      name: "User-defined constant"
+    - 
+      scope: "variable"
+      settings: 
+        fontStyle: ""
+        foreground: "#6290C5"
+      name: "Variable"
+    - 
+      scope: "keyword"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#FFFFFF"
+      name: "Keyword"
+    - 
+      scope: "storage"
+      settings: 
+        fontStyle: ""
+        foreground: "#FFFFFF"
+      name: "Storage"
+    - 
+      scope: "storage.type"
+      settings: 
+        fontStyle: "italic bold"
+        foreground: "#FFFFFF"
+      name: "Storage type"
+    - 
+      scope: "storage.modifier"
+      settings: 
+        fontStyle: "italic bold"
+        foreground: "#FFFFFF"
+      name: "Storage Modifier"
+    - 
+      scope: "entity.name.class"
+      settings: 
+        fontStyle: "underline"
+        foreground: "#FFFFFF"
+      name: "Class name"
+    - 
+      scope: "entity.other.inherited-class"
+      settings: 
+        fontStyle: "italic underline"
+        foreground: "#A6E22E"
+      name: "Inherited class"
+    - 
+      scope: "entity.name.function"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#FFFFFF"
+      name: "Function name"
+    - 
+      scope: "variable.parameter"
+      settings: 
+        fontStyle: "italic bold"
+        foreground: "#FD971F"
+      name: "Function argument"
+    - 
+      scope: "entity.name.tag, punctuation.definition.tag"
+      settings: 
+        fontStyle: ""
+        foreground: "#729FCF"
+      name: "Tag name"
+    - 
+      scope: "entity.name.tag.css"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#F92672"
+      name: "CSS Tag name"
+    - 
+      scope: "entity.other.attribute-name"
+      settings: 
+        fontStyle: ""
+        foreground: "#A6E22E"
+      name: "Tag attribute"
+    - 
+      scope: "support.function"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#FFFFFF"
+      name: "Library function"
+    - 
+      scope: "support.function.construct"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#73d216"
+      name: "Function Construct"
+    - 
+      scope: "support.constant"
+      settings: 
+        fontStyle: ""
+        foreground: "#66D9EF"
+      name: "Library constant"
+    - 
+      scope: "support.type, support.class"
+      settings: 
+        fontStyle: "italic"
+        foreground: "#66D9EF"
+      name: "Library class/type"
+    - 
+      scope: "support.other.variable"
+      settings: 
+        fontStyle: ""
+      name: "Library variable"
+    - 
+      scope: "invalid"
+      settings: 
+        fontStyle: ""
+        background: "#F92672"
+        foreground: "#F8F8F0"
+      name: "Invalid"
+    - 
+      scope: "invalid.deprecated"
+      settings: 
+        background: "#AE81FF"
+        foreground: "#F8F8F0"
+      name: "Invalid deprecated"
+    - 
+      scope: "remark.todo"
+      settings: 
+        foreground: "#FFFFAA"
+      name: "Remark TODO"
+    - 
+      scope: "remark.done"
+      settings: 
+        foreground: "#DDDDDD"
+      name: "Remark DONE"
+    - 
+      scope: "remark.wait"
+      settings: 
+        foreground: "#CCFFCC"
+      name: "Remark WAIT"
+    - 
+      scope: "remark.note"
+      settings: 
+        foreground: "#AAAAAA"
+      name: "Remark NOTE"
+    - 
+      scope: "remark.fixme"
+      settings: 
+        foreground: "#FFAAAA"
+      name: "Remark FIXME"
+    - 
+      scope: "remark.warning"
+      settings: 
+        foreground: "#FF9900"
+      name: "Remark WARNING"
+    - 
+      scope: "remark.info"
+      settings: 
+        foreground: "#FFFFAA"
+      name: "Remark INFO"
+    - 
+      scope: "remark.exception"
+      settings: 
+        foreground: "#FFAAAA"
+      name: "Remark EXCEPTION"
+    - 
+      scope: "remark.error"
+      settings: 
+        foreground: "#FF3366"
+      name: "Remark ERROR"
+    - 
+      scope: "meta.diff, meta.diff.header"
+      settings: 
+        foreground: "#75715E"
+      name: "diff.header"
+    - 
+      scope: "markup.deleted"
+      settings: 
+        foreground: "#a40000"
+      name: "diff.deleted"
+    - 
+      scope: "markup.inserted"
+      settings: 
+        foreground: "#4e9a06"
+      name: "diff.inserted"
+    - 
+      scope: "markup.changed"
+      settings: 
+        foreground: "#204a87"
+      name: "diff.changed"
+    - 
+      scope: "text.html.markdown meta.dummy.line-break"
+      settings: 
+        background: "#A57706"
+        foreground: "#E0EDDD"
+      name: "Markdown: Linebreak"
+    - 
+      scope: "text.html.markdown markup.raw.inline"
+      settings: 
+        foreground: "#269186"
+      name: "Markdown: Raw"
+    - 
+      scope: "punctuation.definition.raw.markdown"
+      settings: 
+        foreground: "#269186"
+      name: "Markdown: Punctuation for Inline Block"
+    - 
+      scope: "markup.heading"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#cb4b16"
+      name: "Markup: Heading"
+    - 
+      scope: "markup.italic"
+      settings: 
+        fontStyle: "italic"
+        foreground: "#839496"
+      name: "Markup: Italic"
+    - 
+      scope: "markup.bold"
+      settings: 
+        fontStyle: "bold"
+        foreground: "#586e75"
+      name: "Markup: Bold"
+    - 
+      scope: "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown"
+      settings: 
+        foreground: "#586e75"
+      name: "Markdown: Punctuation for Bold, Italic"
+    - 
+      scope: "markup.underline"
+      settings: 
+        fontStyle: "underline"
+        foreground: "#839496"
+      name: "Markup: Underline"
+    - 
+      scope: "markup.quote"
+      settings: 
+        fontStyle: "italic"
+        foreground: "#268bd2"
+      name: "Markup: Quote"
+    - 
+      scope: "meta.separator"
+      settings: 
+        fontStyle: "bold"
+        background: "#eee8d5"
+        foreground: "#268bd2"
+      name: "Markup: Separator"
+  name: "Oblivion"
