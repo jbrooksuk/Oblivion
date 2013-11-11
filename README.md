@@ -63,3 +63,4 @@ Additional credits to:
 - [James Brooks](http://github.com/jbrooksuk)
 - [Hussani Oliveira](http://github.com/hussani)
 - [Nicolas](http://github.com/tMaxx)
+- [natestedman](http://github.com/natestedman) *for Morrowind.*
