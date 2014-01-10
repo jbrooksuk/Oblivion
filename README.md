@@ -1,4 +1,4 @@
-# Oblivion - Sublime Text Theme
+# Oblivion - Sublime Text Theme [![Gittip](http://badgr.co/gittip/jbrooksuk.png)](https://www.gittip.com/jbrooksuk/)
 
 A Sublime Text Color Scheme based on Oblivion theme of Gedit in Ubuntu 11.10.
 
